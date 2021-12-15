@@ -1,0 +1,12 @@
+*.class
+.jar
+.war
+.ear
+*/bin/**
+.classpath
+.project
+.settings/
+/target/
+.*.html
+/*/.gitignore
+.exe
